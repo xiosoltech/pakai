@@ -1,0 +1,7 @@
+{
+  "name": "Pak Ai Patient Dashboard",
+  "description": "A comprehensive mobile health dashboard for patients to monitor vitals, interact with an AI HealthBot, upload lab reports, view a digital twin summary, and receive health alerts.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
